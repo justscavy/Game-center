@@ -1,0 +1,7 @@
+Your Name: Andre
+Your Letter: Q
+actor: d
+singer: d
+band: wdq
+politician: qw
+sport-star: dqw
